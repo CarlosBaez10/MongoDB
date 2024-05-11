@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "663fa8feb545552e9dee2e27"
+  },
+  "Equipo_1": "Deportivo san juan de Dios",
+  "Equipo_2": "Motilones",
+  "marcador": "",
+  "tarejtas_amarillas_equipo_1": "",
+  "tarejtas_amarillas_equipo_2": ""
+},
+{
+  "_id": {
+    "$oid": "663fa8feb545552e9dee2e28"
+  },
+  "Equipo_1": "Motilones",
+  "Equipo_2": "Saitama",
+  "marcador": "",
+  "tarejtas_amarillas_equipo_1": "",
+  "tarejtas_amarillas_equipo_2": ""
+},
+{
+  "_id": {
+    "$oid": "663fa8feb545552e9dee2e29"
+  },
+  "Equipo_1": "Saitama",
+  "Equipo_2": "Combo del wicho",
+  "marcador": "",
+  "tarejtas_amarillas_equipo_1": "",
+  "tarejtas_amarillas_equipo_2": ""
+},
+{
+  "_id": {
+    "$oid": "663fa8feb545552e9dee2e2a"
+  },
+  "Equipo_1": "Motilones",
+  "Equipo_2": "Real la 18",
+  "marcador": "",
+  "tarejtas_amarillas_equipo_1": "",
+  "tarejtas_amarillas_equipo_2": ""
+},
+{
+  "_id": {
+    "$oid": "663fa8feb545552e9dee2e2b"
+  },
+  "Equipo_1": "Combo del wicho",
+  "Equipo_2": "Super strikas",
+  "marcador": "",
+  "tarejtas_amarillas_equipo_1": "",
+  "tarejtas_amarillas_equipo_2": ""
+},
+{
+  "_id": {
+    "$oid": "663fa8feb545552e9dee2e2c"
+  },
+  "Equipo_1": "Real la 18",
+  "Equipo_2": "Super strikas",
+  "marcador": "",
+  "tarejtas_amarillas_equipo_1": "",
+  "tarejtas_amarillas_equipo_2": ""
+},
+{
+  "_id": {
+    "$oid": "663fa8feb545552e9dee2e2d"
+  },
+  "Equipo_1": "Deportivo san juan de Dios",
+  "Equipo_2": "Saitama",
+  "marcador": "",
+  "tarejtas_amarillas_equipo_1": "",
+  "tarejtas_amarillas_equipo_2": ""
+},
+{
+  "_id": {
+    "$oid": "663fa8feb545552e9dee2e2e"
+  },
+  "Equipo_1": "Super strikas",
+  "Equipo_2": "Real la 18",
+  "marcador": "",
+  "tarejtas_amarillas_equipo_1": "",
+  "tarejtas_amarillas_equipo_2": ""
+},
+{
+  "_id": {
+    "$oid": "663fa8feb545552e9dee2e2f"
+  },
+  "Equipo_1": "Saitama",
+  "Equipo_2": "Real la 18",
+  "marcador": "",
+  "tarejtas_amarillas_equipo_1": "",
+  "tarejtas_amarillas_equipo_2": ""
+},
+{
+  "_id": {
+    "$oid": "663fa8feb545552e9dee2e30"
+  },
+  "Equipo_1": "Motilones",
+  "Equipo_2": "Combo del wicho",
+  "marcador": "",
+  "tarejtas_amarillas_equipo_1": "",
+  "tarejtas_amarillas_equipo_2": ""
+},
+{
+  "_id": {
+    "$oid": "663fa8feb545552e9dee2e31"
+  },
+  "Equipo_1": "Deportivo san juan de Dios",
+  "Equipo_2": "Combo del wicho",
+  "marcador": "",
+  "tarejtas_amarillas_equipo_1": "",
+  "tarejtas_amarillas_equipo_2": ""
+}]

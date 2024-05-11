@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "663fa0dbb545552e9dee2df0"
+  },
+  "Nombre": "Esteban Pino",
+  "Edad": 37,
+  "Escuela": "Deportiva de arbitros del norte"
+},
+{
+  "_id": {
+    "$oid": "663fa0dbb545552e9dee2df1"
+  },
+  "Nombre": "Andres Arenales",
+  "Edad": 28,
+  "Escuela": "Escuela de arbitros de Cúcuta"
+},
+{
+  "_id": {
+    "$oid": "663fa0dbb545552e9dee2df2"
+  },
+  "Nombre": "Freymar Sanchez",
+  "Edad": 40,
+  "Escuela": "Deportiva de arbitros del norte"
+},
+{
+  "_id": {
+    "$oid": "663fa0dbb545552e9dee2df3"
+  },
+  "Nombre": "Miguel Alvarez",
+  "Edad": 31,
+  "Escuela": "Escuela de arbitros de Cúcuta"
+},
+{
+  "_id": {
+    "$oid": "663fa0dbb545552e9dee2df4"
+  },
+  "Nombre": "Edwin Sannin",
+  "Edad": 36,
+  "Escuela": "Escuela de arbitros de Cúcuta"
+}]

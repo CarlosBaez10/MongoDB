@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "663fa285b545552e9dee2df9"
+  },
+  "Nombre": "Real la 18",
+  "Inscripcion": 300000,
+  "Representante": "Carlos Arturo"
+},
+{
+  "_id": {
+    "$oid": "663fa285b545552e9dee2dfa"
+  },
+  "Nombre": "Deportivo san juan de Dios",
+  "Inscripcion": 200000,
+  "Representante": "Javier Arias"
+},
+{
+  "_id": {
+    "$oid": "663fa285b545552e9dee2dfb"
+  },
+  "Nombre": "Motilones",
+  "Inscripcion": 300000,
+  "Representante": "Carlos Valdes"
+},
+{
+  "_id": {
+    "$oid": "663fa285b545552e9dee2dfc"
+  },
+  "Nombre": "Super strikas",
+  "Inscripcion": 100000,
+  "Representante": "Ronny Caceres"
+},
+{
+  "_id": {
+    "$oid": "663fa285b545552e9dee2dfd"
+  },
+  "Nombre": "Cocosette",
+  "Inscripcion": 250000,
+  "Representante": "Carlos Rodriguez"
+},
+{
+  "_id": {
+    "$oid": "663fa285b545552e9dee2dfe"
+  },
+  "Nombre": "Saitama B",
+  "Inscripcion": 200000,
+  "Representante": "Felipe Duque"
+},
+{
+  "_id": {
+    "$oid": "663fa285b545552e9dee2dff"
+  },
+  "Nombre": "Scalabrini A",
+  "Inscripcion": 300000,
+  "Representante": "Richard Duran"
+},
+{
+  "_id": {
+    "$oid": "663fa285b545552e9dee2e00"
+  },
+  "Nombre": "Combo de wicho",
+  "Inscripcion": 150000,
+  "Representante": "Luis Diaz"
+},
+{
+  "_id": {
+    "$oid": "663fa285b545552e9dee2e01"
+  },
+  "Nombre": "Real atalaya",
+  "Inscripcion": 200000,
+  "Representante": "Willintong Peñaranda"
+},
+{
+  "_id": {
+    "$oid": "663fa285b545552e9dee2e02"
+  },
+  "Nombre": "Comuneros",
+  "Inscripcion": 300000,
+  "Representante": "James rodriguez"
+}]

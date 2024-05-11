@@ -1,0 +1,192 @@
+[{
+  "_id": {
+    "$oid": "663fa59db545552e9dee2e07"
+  },
+  "Nombre": "Carlos Baez",
+  "equipo": "Deportivo san juan de Dios",
+  "edad": 27
+},
+{
+  "_id": {
+    "$oid": "663fa59db545552e9dee2e08"
+  },
+  "Nombre": "Frank Osorio",
+  "equipo": "Deportivo san juan de Dios",
+  "edad": 27
+},
+{
+  "_id": {
+    "$oid": "663fa59db545552e9dee2e09"
+  },
+  "Nombre": "Alex Ortiz",
+  "equipo": "Deportivo san juan de Dios",
+  "edad": 17
+},
+{
+  "_id": {
+    "$oid": "663fa59db545552e9dee2e0a"
+  },
+  "Nombre": "Imer Acosta",
+  "equipo": "Deportivo san juan de Dios",
+  "edad": 29
+},
+{
+  "_id": {
+    "$oid": "663fa59db545552e9dee2e0b"
+  },
+  "Nombre": "Johatan cepeda",
+  "equipo": "Deportivo san juan de Dios",
+  "edad": 34
+},
+{
+  "_id": {
+    "$oid": "663fa59db545552e9dee2e0c"
+  },
+  "Nombre": "Germa Perez",
+  "equipo": "Deportivo san juan de Dios",
+  "edad": 23
+},
+{
+  "_id": {
+    "$oid": "663fa59db545552e9dee2e0d"
+  },
+  "Nombre": "Arley Sanchez",
+  "equipo": "Deportivo san juan de Dios",
+  "edad": 18
+},
+{
+  "_id": {
+    "$oid": "663fa59db545552e9dee2e0e"
+  },
+  "Nombre": "Edwar Vega",
+  "equipo": "Motilones",
+  "edad": 20
+},
+{
+  "_id": {
+    "$oid": "663fa59db545552e9dee2e0f"
+  },
+  "Nombre": "Yorluis Vega",
+  "equipo": "Motilones",
+  "edad": 19
+},
+{
+  "_id": {
+    "$oid": "663fa59db545552e9dee2e10"
+  },
+  "Nombre": "Jeison Peñaranda",
+  "equipo": "Motilones",
+  "edad": 26
+},
+{
+  "_id": {
+    "$oid": "663fa59db545552e9dee2e11"
+  },
+  "Nombre": "Fabio Gerrero",
+  "equipo": "Motilones",
+  "edad": 24
+},
+{
+  "_id": {
+    "$oid": "663fa59db545552e9dee2e12"
+  },
+  "Nombre": "Boris Murillo",
+  "equipo": "Motilones",
+  "edad": 30
+},
+{
+  "_id": {
+    "$oid": "663fa59db545552e9dee2e13"
+  },
+  "Nombre": "Pablo Garcia",
+  "equipo": "Motilones",
+  "edad": 32
+},
+{
+  "_id": {
+    "$oid": "663fa59db545552e9dee2e14"
+  },
+  "Nombre": "Edinael Amaya",
+  "equipo": "Motilones",
+  "edad": 29
+},
+{
+  "_id": {
+    "$oid": "663fa59db545552e9dee2e15"
+  },
+  "Nombre": "Duban Garcia",
+  "equipo": "Motilones",
+  "edad": 18
+},
+{
+  "_id": {
+    "$oid": "663fa59db545552e9dee2e16"
+  },
+  "Nombre": "Andres Chaparro",
+  "equipo": "Saitama",
+  "edad": 20
+},
+{
+  "_id": {
+    "$oid": "663fa59db545552e9dee2e17"
+  },
+  "Nombre": "Richard Acosta",
+  "equipo": "Saitama",
+  "edad": 19
+},
+{
+  "_id": {
+    "$oid": "663fa59db545552e9dee2e18"
+  },
+  "Nombre": "Brayner Cardenas",
+  "equipo": "Saitama",
+  "edad": 34
+},
+{
+  "_id": {
+    "$oid": "663fa59db545552e9dee2e19"
+  },
+  "Nombre": "Hugo Figueroa",
+  "equipo": "Saitama",
+  "edad": 45
+},
+{
+  "_id": {
+    "$oid": "663fa59db545552e9dee2e1a"
+  },
+  "Nombre": "Duvan Morales",
+  "equipo": "Saitama",
+  "edad": 21
+},
+{
+  "_id": {
+    "$oid": "663fa59db545552e9dee2e1b"
+  },
+  "Nombre": "Andres Rodriguez",
+  "equipo": "Saitama",
+  "edad": 24
+},
+{
+  "_id": {
+    "$oid": "663fa59db545552e9dee2e1c"
+  },
+  "Nombre": "Joan Cardoso",
+  "equipo": "Saitama",
+  "edad": 32
+},
+{
+  "_id": {
+    "$oid": "663fa59db545552e9dee2e1d"
+  },
+  "Nombre": "Carlos Pabon",
+  "equipo": "Saitama",
+  "edad": 18
+},
+{
+  "_id": {
+    "$oid": "663fa59db545552e9dee2e1e"
+  },
+  "Nombre": "Jesus Cantor",
+  "equipo": "Saitama",
+  "edad": 28
+}]

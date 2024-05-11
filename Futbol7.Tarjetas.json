@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "663f9fb2b545552e9dee2dec"
+  },
+  "Color": "Amarilla",
+  "Precio": 5000
+},
+{
+  "_id": {
+    "$oid": "663f9fb2b545552e9dee2ded"
+  },
+  "Color": "Roja",
+  "Precio": 10000
+}]
